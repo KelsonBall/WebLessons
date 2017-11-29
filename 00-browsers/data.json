@@ -1,0 +1,20 @@
+{
+    "month" : "November",
+    "day" : "Taco Tuesday",
+    "people" : [
+        {
+            "category" : "student",
+            "first-name" : "Patty",
+            "last-name" : "Bowen",
+            "favorite-food" : "Apples",
+            "worst-nightmare" : "Gluten"
+        },
+        {
+            "category" : "nerd",
+            "first-name" : "Kelson",
+            "last-name" : "Ball",
+            "favorite-food" : "Fried Scallops",
+            "worst-nightmare" : "People who say 'I know how to program in html'",
+        }
+    ]
+}

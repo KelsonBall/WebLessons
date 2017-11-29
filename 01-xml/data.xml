@@ -1,0 +1,19 @@
+<xml>
+    <session>
+        <time month="November" day="Taco Tuesday"/>
+        <people>
+            <person category="student">
+                <first-name>Patty</first-name>
+                <last-name>Bowen</last-name>
+                <favorite-food>Apples</favorite-food>
+                <worst-nightmare>Gluten</worst-nightmare>
+            </person>
+            <person category="nerd">
+                <first-name>Kelson</first-name>
+                <last-name>Ball</last-name>
+                <favorite-food>Fried Scallops</favorite-food>
+                <worst-nightmare>People who say 'I know how to program in html'</worst-nightmare>
+            </person>
+        </people>
+    </session>
+</xml>
